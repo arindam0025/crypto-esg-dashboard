@@ -2,7 +2,7 @@
 
 A real-time cryptocurrency dashboard that combines live price data with Environmental, Social, and Governance (ESG) scores to help investors make sustainable crypto investment decisions.
 
-![Dashboard Preview](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Dashboard Preview]([https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://arindam0025-crypto-esg-dashboard-app-odr0dj.streamlit.app/))
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
